@@ -35,7 +35,7 @@
     ]
   },
   "dependencies": {
-    "axios": "^0.22.0",
+    "axios": "^0.23.0",
     "convict": "^6.2.0",
     "cronitor": "^2.2.3",
     "nodemailer": "^6.7.0",
