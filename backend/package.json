@@ -38,7 +38,7 @@
     "axios": "^0.24.0",
     "convict": "^6.2.1",
     "cronitor": "^2.2.3",
-    "nodemailer": "^6.7.1",
+    "nodemailer": "^6.7.2",
     "pg": "^8.7.1",
     "ssh2": "^1.5.0"
   }
