@@ -37,7 +37,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "convict": "^6.2.1",
-    "cronitor": "^2.2.3",
+    "cronitor": "^2.3.1",
     "nodemailer": "^6.7.3",
     "pg": "^8.7.3",
     "ssh2": "^1.7.0"
